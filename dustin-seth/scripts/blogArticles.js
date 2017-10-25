@@ -1,7 +1,7 @@
 'use strict';
 
 // COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
-// PUT YOUR RESPONSE HERE
+// THis data is applied to the DOM via clone with each object in the rawData array respresents an article for the blog and the keys represent the location that the values will be inserted!
 
 let rawData = [
   {
